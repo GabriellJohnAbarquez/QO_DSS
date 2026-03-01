@@ -6,7 +6,7 @@
 
 require_once 'includes/header.php';
 require_once 'dbconfig.php';
-
+//test gabo
 // Get current queue stats for display
 try {
     $stats = $pdo->query("
